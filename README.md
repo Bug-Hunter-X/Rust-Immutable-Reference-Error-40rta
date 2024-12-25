@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust involving immutable references. The `bug.rs` file contains code that attempts to modify a value through an immutable reference, which results in a compile-time error.  The `bugSolution.rs` file shows how to correct this error by using mutable references where necessary.
